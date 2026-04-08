@@ -45,6 +45,7 @@ The transformed data is organized into a gold layer within Azure Storage.
 Curated datasets are prepared for downstream consumption
 Data is structured to support reporting and analytics use cases
 Optimized storage formats are used for efficient querying
+
 🔹 Reporting and Visualization
 
 The curated datasets are integrated with Power BI for reporting.
